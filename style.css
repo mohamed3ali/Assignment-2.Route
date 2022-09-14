@@ -1,0 +1,43 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+.header{
+    background-color: rgb(16, 109, 155);
+}
+
+.head {
+    color: rgb(173, 215, 22);
+    padding: 10px;
+}
+.head p{
+color: antiquewhite;
+}
+.info{
+    border: 1px solid 3CCC;
+    margin: 5px;
+background-color: rgb(146, 146, 169);
+
+}
+.info img{
+width: 20%;
+}
+.info .info1 {
+    width: 50%;
+    background-color: rgb(165, 165, 195);
+    float: left;
+        
+}
+.info .info1 p{
+    width: 50%;
+    float: left;
+    color: white;
+padding-top: 5%;
+}
+.info .info1 img{
+    width:50%;
+    float: left;
+}
+.clear-fix{
+    clear: both;
+}
